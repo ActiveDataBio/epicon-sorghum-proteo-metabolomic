@@ -7,7 +7,7 @@
 <!--adbio-description-->
 EPICON sorghum proteo-metabolomic dataset
 <!--adbio-organism-->
-sbi
+Organism [Sorghum bicolor (sorghum)](http://www.genome.jp/kegg-bin/show_organism?org=sbi)
 <!--adbio-funding-->
 <!--adbio-publication-->
 <!------------------------------------------------------------------------------>
